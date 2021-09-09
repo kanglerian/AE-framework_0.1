@@ -11,3 +11,7 @@ Let's Copy! 😄
 1. **Project** : Employees Ads on September 2021.
 2. **Running Date** : 09 September 2021.
 3. **Platform** : Instagram & Facebook.
+
+## Sample Project:
+
+![](/employee-ads.png)
