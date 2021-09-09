@@ -14,4 +14,4 @@ Let's Copy! 😄
 
 ## Sample Project:
 
-![](/employee-ads.png)
+![](./employee-ads.png)
