@@ -15,3 +15,6 @@ Let's Copy! 😄
 ## Sample Project:
 
 ![](./employee-ads.png)
+
+## Version
+- Adobe After Effects 2020
